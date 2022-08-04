@@ -24,11 +24,7 @@
     <!-- Android -->
     <img alt="Supports Expo Android" longdesc="Supports Expo Android" src="https://img.shields.io/badge/Android-000.svg?style=flat-square&logo=ANDROID&labelColor=A4C639&logoColor=fff" />
   </p>
-  <p align="center">
-    <!-- npm -->
-    <img alt="npm" src="https://img.shields.io/npm/v/npm?style=flat-square" />
-  
-  </P>
+
 </p>
 
 
