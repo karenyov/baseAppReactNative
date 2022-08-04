@@ -33,7 +33,7 @@
 
 
  <p align="center">
-    <!-- LICENSE -->
+ 
     <img alt="GitHub" src="https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square" />
     
 
