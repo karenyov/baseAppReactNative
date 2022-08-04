@@ -8,8 +8,6 @@
 <!-- Header -->
 
 <p align="center">
-  <b>The fastest way to create universal React Native apps</b>
-  <br />
 
   <p align="center">
     <!-- iOS -->
