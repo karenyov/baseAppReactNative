@@ -20,11 +20,11 @@
   
   <p align="center">
     <!-- LICENSE -->
-    <img alt="GitHub" src="https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square">
+    <img alt="GitHub" src="https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square" />
   </p>
   
   <p align="center">
-    [![npm](https://img.shields.io/npm/v/react-native-icon-badge.svg?style=flat-square)](https://www.npmjs.com/package/react-native-icon-badge)
+    <img alt="npm" src="https://img.shields.io/npm/v/npm?style=flat-square" />
    </p>
 </p>
 
