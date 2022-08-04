@@ -48,6 +48,8 @@ Sections
 ## Installation 
 
 ### Requirements 
+- [NodeJs](https://nodejs.org/en/).
+- [Expo](https://docs.expo.dev/get-started/installation/).
 
 ### Run
 
