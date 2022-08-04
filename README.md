@@ -28,3 +28,15 @@
 </p>
 
 <!-- Body -->
+
+Sections Table
+=================
+<!--ts-->
+   * [Sections Table](#sections-table)
+   * [Installation](#installation)
+   * [Usage](#usage)
+      * [Requirements](#requirements)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+   * [Contributors](#Contributors)
+<!--te-->
