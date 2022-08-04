@@ -44,7 +44,7 @@
 <!--te-->
 
 <!-- Installation -->
-## Installation :star2: 
+## Installation
 
 ### Requirements 
 - [NodeJs](https://nodejs.org/en/).
@@ -69,14 +69,14 @@ npm install
 
 
 <!-- Features -->
-## Features :writing_hand:
+## Features
 - [x] Login
 
 <!-- end Features -->
 
 
 <!-- Usage -->
-## Usage :selfie:
+## Usage
 
 
 ### Screenshots 
@@ -85,20 +85,20 @@ npm install
 
 
 <!-- Status -->
-## Status :rocket:
+## Status
 🚧  Base App React Native in development...  🚧
 
 <!-- end Status -->
 
 
 <!-- Tests -->
-## :computer_mouse: Tests 
+## Tests 
 
 
 <!-- end Tests -->
 
 <!-- Technologies -->
-## Technologies :man_technologist:
+## Technologies
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
@@ -109,7 +109,7 @@ npm install
 
 
 <!-- Contributors -->
-## Contributors :raising_hand_man:
+## Contributors
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
