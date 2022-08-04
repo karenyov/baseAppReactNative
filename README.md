@@ -115,8 +115,8 @@ npm install
 <table>
   <tr>
     <td align="center">
-       <img src="https://github.com/karenyov.png" width="100px;" alt=""/><br />
-
+       
+aaaa
     </td>
   </tr>
 </table>
