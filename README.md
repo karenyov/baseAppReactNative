@@ -38,6 +38,9 @@ Sections
    * [Usage](#usage)
       * [Screenshots](#screenshots)
    * [Tests](#testes)
-   * [Tecnologias](#tecnologias)
+   * [Technologies](#technologies)
    * [Contributors](#Contributors)
 <!--te-->
+
+
+
