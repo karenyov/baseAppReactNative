@@ -37,7 +37,7 @@ Sections
       * [Run](#run)
    * [Usage](#usage)
       * [Screenshots](#screenshots)
-   * [Status](#status)
+   * [Status](##status)
    * [Tests](#testes)
    * [Technologies](#technologies)
    * [Contributors](#Contributors)
