@@ -46,7 +46,7 @@
 <!-- Installation -->
 ## Installation 
 
-### Requirements 
+### :heavy_check_mark: Requirements 
 - [NodeJs](https://nodejs.org/en/).
 - [Expo](https://docs.expo.dev/get-started/installation/).
 
