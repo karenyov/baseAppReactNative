@@ -22,6 +22,9 @@
   <!-- npm -->
   <img alt="npm" src="https://img.shields.io/npm/v/npm?style=flat-square" />
   
+  <!-- size repo -->
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/karenyov/baseAppReactNative?style=flat-square" />
+  
 </p>
 
 <!-- Body -->
