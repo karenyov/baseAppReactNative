@@ -119,7 +119,7 @@ npm install
         <img src="https://github.com/karenyov.png" width="100px;" alt="" /><br />
         <sub><b>Karen V.</b></sub>
       </a>
-aaaa
+      <a href="" title="Code">💻</a>
     </td>
   </tr>
 </table>
