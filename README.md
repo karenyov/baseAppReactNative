@@ -52,6 +52,14 @@ Sections
 - [Expo](https://docs.expo.dev/get-started/installation/).
 
 ### Run
+> using Git
+```sh
+
+# Clone this repository
+git clone <https://github.com/karenyov/baseAppReactNative.git>
+
+
+```
 
 <!-- end Installation -->
 
