@@ -37,10 +37,15 @@ Sections
       * [Run](#run)
    * [Usage](#usage)
       * [Screenshots](#screenshots)
+   * [Status](#status)
    * [Tests](#testes)
    * [Technologies](#technologies)
    * [Contributors](#Contributors)
 <!--te-->
+
+
+## Status 
+🚧  Base App React Native 🚀 in development...  🚧
 
 
 
