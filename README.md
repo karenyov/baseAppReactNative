@@ -79,7 +79,7 @@ npm install
 ## :selfie: Usage 
 
 
-### :camera_flash: Screenshots 
+### Screenshots 
 <!-- end Usage -->
 
 
