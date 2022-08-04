@@ -17,14 +17,16 @@
 
 
   <!-- LICENSE -->
-  <img alt="GitHub" src="https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square" />
+  ![GitHub](https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square)
+  
   
   <!-- npm -->
-  <img alt="npm" src="https://img.shields.io/npm/v/npm?style=flat-square" />
+  
+  ![npm](https://img.shields.io/npm/v/npm?style=flat-square)
   
   <!-- size repo -->
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/karenyov/baseAppReactNative?style=flat-square" />
-  
+   ![GitHub](https://img.shields.io/github/languages/code-size/karenyov/baseAppReactNative?style=flat-square)
+   
 
 
  <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
