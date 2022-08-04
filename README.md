@@ -28,7 +28,7 @@
 
 <!-- Body -->
 
-Sections
+:link: Sections
 =================
 <!--ts-->
    * [Installation](#installation)
