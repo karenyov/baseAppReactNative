@@ -35,6 +35,7 @@ Sections
    * [Installation](#installation)
       * [Requirements](#requirements)
       * [Run](#run)
+   * [Features](#features)
    * [Usage](#usage)
       * [Screenshots](#screenshots)
    * [Status](#status)
@@ -51,6 +52,13 @@ Sections
 ### Run
 
 <!-- end Installation -->
+
+
+<!-- Features -->
+## Features 
+- [x] Login
+
+<!-- end Features -->
 
 
 <!-- Usage -->
