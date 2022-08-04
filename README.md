@@ -15,10 +15,12 @@
   <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-000.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
 </p>
 
-<!-- prettier-ignore-start -->
+
 ![GitHub](https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square)
 ![npm](https://img.shields.io/npm/v/npm?style=flat-square)
 ![GitHub](https://img.shields.io/github/languages/code-size/karenyov/baseAppReactNative?style=flat-square)
+
+<!-- prettier-ignore-start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
