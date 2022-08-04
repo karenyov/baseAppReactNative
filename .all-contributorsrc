@@ -19,7 +19,16 @@
   },
   "skipCi": true,
   "contributors": [
-   
+    {
+      "login": "karenyov",
+      "name": "Karen Vicente",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11029857?v=4",
+      "profile": "https://github.com/karenyov",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
   ],
   "repoHost": "https://github.com"
 }
