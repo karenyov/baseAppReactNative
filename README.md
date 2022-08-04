@@ -1,2 +1,2 @@
-# baseAppReactNative
-Base App React Native
+# :iphone: Base App React Native
+Base React Native
