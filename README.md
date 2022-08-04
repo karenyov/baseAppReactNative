@@ -27,7 +27,7 @@
   
   
   <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-  <img alt="Contributors" src="https://img.shields.io/github/all-contributors/baseAppReactNative?style=flat-square" />
+  <img alt="GitHub contributors (via allcontributors.org)" src="https://img.shields.io/github/all-contributors/karenyov/baseAppReactNative?style=flat-square" />
   <!-- ALL-CONTRIBUTORS-BADGE:END --> 
   
   
