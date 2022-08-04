@@ -29,13 +29,13 @@
 
 <!-- Body -->
 
-Sections Table
+Sections
 =================
 <!--ts-->
-   * [Sections Table](#sections-table)
    * [Installation](#installation)
-   * [Usage](#usage)
       * [Requirements](#requirements)
+   * [Usage](#usage)
+      
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
    * [Contributors](#Contributors)
