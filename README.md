@@ -22,10 +22,10 @@
     <!-- LICENSE -->
     <img alt="GitHub" src="https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square" />
     
-    <!-- Npm -->
+    <!-- NPM -->
     <img alt="npm" src="https://img.shields.io/npm/v/npm?style=flat-square" />
   </p>
-  
+  <img alt="npm" src="https://img.shields.io/npm/v/npm?style=flat-square" />
 </p>
 
 <!-- Body -->
