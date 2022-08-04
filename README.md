@@ -37,15 +37,54 @@ Sections
       * [Run](#run)
    * [Usage](#usage)
       * [Screenshots](#screenshots)
-   * [Status](##status)
+   * [Status](#status)
    * [Tests](#testes)
    * [Technologies](#technologies)
    * [Contributors](#Contributors)
 <!--te-->
 
+<!-- Installation -->
+## Installation 
 
+### Requirements 
+
+### Run
+
+<!-- end Installation -->
+
+
+<!-- Usage -->
+## Usage 
+
+
+### Screenshots 
+<!-- end Usage -->
+
+
+
+<!-- Status -->
 ## Status 
 🚧  Base App React Native 🚀 in development...  🚧
 
+<!-- end Status -->
 
+
+<!-- Tests -->
+## Tests 
+
+
+<!-- end Tests -->
+
+<!-- Technologies -->
+## Technologies 
+
+
+<!-- end Technologies -->
+
+
+<!-- Contributors -->
+## Contributors 
+
+
+<!-- end Contributors -->
 
