@@ -37,6 +37,6 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square" />
     
 
-     <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-000.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
+     <img alt="GitHub" src="https://img.shields.io/badge/web-000.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
   </p>
 <!-- Body -->
