@@ -58,6 +58,11 @@ Sections
 # Clone this repository
 git clone <https://github.com/karenyov/baseAppReactNative.git>
 
+# cmd in project file
+# install all dependencies
+npm install
+
+# run aplication
 
 ```
 
