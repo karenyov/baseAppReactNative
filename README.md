@@ -101,7 +101,6 @@ npm install
 <!-- Tests -->
 ## Tests 
 
-
 <!-- end Tests -->
 
 <!-- Technologies -->
