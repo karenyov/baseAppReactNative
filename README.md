@@ -116,6 +116,7 @@ npm install
   <tr>
     <td align="center">
        <img src="https://github.com/karenyov.png" width="100px;" alt="" /><br />
+      <sub><b>Karen V.</b></sub>
 aaaa
     </td>
   </tr>
