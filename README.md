@@ -97,8 +97,8 @@ npm install
 
 <!-- end Tests -->
 
-<!-- :man_technologist: Technologies -->
-## Technologies 
+<!-- Technologies -->
+## :man_technologist: Technologies 
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
