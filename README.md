@@ -16,17 +16,12 @@
 </p>
 
 <!-- prettier-ignore-start -->
-<!-- LICENSE -->
 ![GitHub](https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square)
-  <!-- npm -->
 ![npm](https://img.shields.io/npm/v/npm?style=flat-square)
-<!-- size repo -->
 ![GitHub](https://img.shields.io/github/languages/code-size/karenyov/baseAppReactNative?style=flat-square)
-
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
-
 <!-- prettier-ignore-end -->
   
 <hr />
