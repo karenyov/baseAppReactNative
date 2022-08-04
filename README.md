@@ -33,9 +33,10 @@ Sections
 =================
 <!--ts-->
    * [Installation](#installation)
-    * [Requirements](#requirements)
-   * [Usage](#usage)
       * [Requirements](#requirements)
+      * [Run](#run)
+   * [Usage](#usage)
+      * [Screenshots](#screenshots)
    * [Tests](#testes)
    * [Tecnologias](#tecnologias)
    * [Contributors](#Contributors)
