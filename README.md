@@ -115,7 +115,11 @@ npm install
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/karenyov"><img src="https://github.com/karenyov.png" width="100px;" alt=""/><br /><sub><b>Karen V.</b></sub></a><br /><a href="https://github.com/testing-library/react-testing-library/commits?author=Karen" title="Code">💻</a>
+      <a href="https://github.com/karenyov">
+        <img src="https://github.com/karenyov.png" width="100px;" alt=""/><br />
+        <sub><b>Karen V.</b></sub>
+      </a><br />
+      <a href="" title="Code">💻</a>
       
     </td>
   </tr>
