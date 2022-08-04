@@ -23,6 +23,9 @@
     <img alt="GitHub" src="https://img.shields.io/github/license/karenyov/baseAppReactNative?style=flat-square">
   </p>
   
+  <p align="center">
+    [![npm](https://img.shields.io/npm/v/react-native-icon-badge.svg?style=flat-square)](https://www.npmjs.com/package/react-native-icon-badge)
+   </p>
 </p>
 
 <!-- Body -->
