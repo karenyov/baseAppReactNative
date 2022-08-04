@@ -40,7 +40,7 @@
    * [Status](#status)
    * [Tests](#testes)
    * [Technologies](#technologies)
-   * [Contributors](#Contributors)
+   * [Contributors](#contributors)
 <!--te-->
 
 <!-- Installation -->
