@@ -130,3 +130,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 <!-- end Contributors -->
 
+
+## LICENSE
+
+[MIT](https://github.com/karenyov/baseAppReactNative/blob/main/LICENSE).
