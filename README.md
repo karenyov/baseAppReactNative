@@ -19,6 +19,9 @@
 ![npm](https://img.shields.io/npm/v/npm?style=flat-square)
 ![GitHub](https://img.shields.io/github/languages/code-size/karenyov/baseAppReactNative?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/karenyov/baseAppReactNative?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/karenyov/baseAppReactNative?style=flat-square)
+![GitHub all releases](https://img.shields.io/github/downloads/karenyov/baseAppReactNative/total?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/karenyov/baseAppReactNative?style=social)
 <!-- prettier-ignore-start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
