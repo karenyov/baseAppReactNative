@@ -33,7 +33,6 @@
 <!-- Body -->
 
 ## :link: Sections
-=================
 <!--ts-->
    * [Installation](#installation)
       * [Requirements](#requirements)
