@@ -13,6 +13,13 @@ series [How to Contribute to an Open Source Project on GitHub](https://egghead.i
 
 
 ## Add your name in Contributors
+> You can learn this link: [add a contributor](https://allcontributors.org/docs/en/bot/usage).
+Comment on Issue or Pull Request, asking @all-contributors to add a contributor:
+
+```sh
+@all-contributors please add @<username> for <contributions>
+
+```
 
 ### Emoji Key ✨ (and Contribution Types)
 
