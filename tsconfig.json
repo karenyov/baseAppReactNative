@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "typeRoots": ["node_modules/@types", "./src/types"],
+  },
+  "extends": "expo/tsconfig.base"
+}

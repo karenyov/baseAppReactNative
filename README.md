@@ -22,39 +22,46 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/karenyov/baseAppReactNative?style=flat-square)
 ![GitHub all releases](https://img.shields.io/github/downloads/karenyov/baseAppReactNative/total?style=flat-square)
 ![GitHub Repo stars](https://img.shields.io/github/stars/karenyov/baseAppReactNative?style=social)
+
 <!-- prettier-ignore-start -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 <!-- prettier-ignore-end -->
-  
+
 <hr />
 
 <!-- Body -->
 
 ## :link: Sections
+
 <!--ts-->
-   * [Installation](#installation)
-      * [Requirements](#requirements)
-      * [Run](#run)
-   * [Features](#features)
-   * [Usage](#usage)
-      * [Screenshots](#screenshots)
-   * [Status](#status)
-   * [Tests](#testes)
-   * [Technologies](#technologies)
-   * [Contributors](#contributors)
+
+- [Installation](#installation)
+  - [Requirements](#requirements)
+  - [Run](#run)
+- [Features](#features)
+- [Usage](#usage)
+  - [Screenshots](#screenshots)
+- [Status](#status)
+- [Tests](#testes)
+- [Technologies](#technologies)
+- [Contributors](#contributors)
 <!--te-->
 
 <!-- Installation -->
+
 ## Installation
 
-### Requirements 
+### Requirements
+
 - [NodeJs](https://nodejs.org/en/).
 - [Expo](https://docs.expo.dev/get-started/installation/).
 
 ### Run
+
 > using Git
+
 ```sh
 
 # Clone this repository
@@ -68,40 +75,55 @@ npm install
 
 ```
 
+### Scripts
+
+```sh
+# list all inconsistencies
+npm run lint
+
+# list all inconsistencies and fix
+npm run lint-and-fix
+
+# format all code with prettier format
+npm run prettier-format
+```
+
 <!-- end Installation -->
 
-
 <!-- Features -->
+
 ## Features
+
 - [x] Login
 
 <!-- end Features -->
 
-
 <!-- Usage -->
+
 ## Usage
 
+### Screenshots
 
-### Screenshots 
 <!-- end Usage -->
 
-
-
 <!-- Status -->
+
 ## Status
-🚧  Base App React Native in development...  🚧
+
+🚧 Base App React Native in development... 🚧
 
 <!-- end Status -->
 
-
 <!-- Tests -->
-## Tests 
 
+## Tests
 
 <!-- end Tests -->
 
 <!-- Technologies -->
+
 ## Technologies
+
 - [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
@@ -110,9 +132,10 @@ npm install
 
 <!-- end Technologies -->
 
-
 <!-- Contributors -->
+
 ## Contributors
+
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -134,9 +157,13 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 <!-- end Contributors -->
 
 <!-- DOCS -->
+
 ## DOCS
+
 [DOCS](https://github.com/karenyov/baseAppReactNative/tree/main/docs).
 
 <!-- License -->
+
 ## LICENSE
+
 [MIT](https://github.com/karenyov/baseAppReactNative/blob/main/LICENSE).
