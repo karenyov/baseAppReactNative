@@ -36,7 +36,7 @@
 ## :link: Sections
 
 <!--ts-->
-
+- [Folder Structure](#folder-structure)
 - [Installation](#installation)
   - [Requirements](#requirements)
   - [Run](#run)
@@ -48,6 +48,49 @@
 - [Technologies](#technologies)
 - [Contributors](#contributors)
 <!--te-->
+
+<!-- Folder Structure -->
+## Folder Structure
+```sh
+.
+├── .expo
+├── .vscode
+│   └── settings.json
+├── .android
+├── docs
+├── ios
+├── node_modules
+├── src
+│   ├── __tests__
+│   ├── @types
+│   |   ├── components
+│   |   └── hooks
+│   ├── assets
+│   |   └── images
+│   ├── components
+│   ├── contexts
+│   ├── data
+│   ├── hooks
+│   ├── http
+│   |   └── dto
+│   ├── pages
+│   ├── routes
+│   ├── services
+│   └── utils
+├── .all-contributorsrc
+├── .editorconfig
+├── .eslintrc.js
+├── .gitattributes
+├── .gitignore
+├── .prettierrc.js
+├── app.json
+├── App.tsx
+├── index.js
+├── metro.config.js
+├── README.md
+├── package.json
+└── tsconfig.json
+```
 
 <!-- Installation -->
 
